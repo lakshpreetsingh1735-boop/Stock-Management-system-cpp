@@ -68,7 +68,7 @@ Itemcode Itemname Stock
 
 ##  Author
 
-- Your Name
+- Lakshpreet Singh
 
 ---
 
